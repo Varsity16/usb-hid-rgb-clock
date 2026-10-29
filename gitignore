@@ -1,0 +1,13 @@
+# local settings and captures
+base_color.txt
+*.pcapng
+*.pcap
+
+# Python
+__pycache__/
+*.pyc
+
+# editors / OS
+.vscode/
+.idea/
+Thumbs.db
